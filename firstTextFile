@@ -1,0 +1,6 @@
+data but is going to be just text
+
+first changed is made
+
+second change is made too, but the problem is after commiting the snapshot of previous one is saved
+to save the snapshot of current changes you will have to commit it again, git wont do it on its own.
